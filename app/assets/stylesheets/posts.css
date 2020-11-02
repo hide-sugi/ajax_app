@@ -8,4 +8,6 @@
   color: gray;
 }
 
-app/views/posts/index.html.erb
+div[data-check="true"] {
+  background: #585555;
+}
